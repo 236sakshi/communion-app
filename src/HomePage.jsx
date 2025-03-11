@@ -8,7 +8,7 @@ const HomePage = () => {
             <header>
             <img class='logo' src={connect} alt="logo" width='100px' />
                 <nav>
-                     <Link to="/">Home</Link> | <Link to="/events">Events</Link> | <Link to="/about">About</Link>
+                     <Link to="/">Home</Link> | <Link to="/events">Events</Link> | <Link to="/">About</Link>
                 </nav>
                 <h1>Communion App</h1>
             </header>
